@@ -1,2 +1,2 @@
-# AggieSeek-Website
+# AggieClassAlert-Website
 Class registration notifications for TAMU

@@ -1,0 +1,25 @@
+{
+  "short_name": "Aggie Class Alert",
+  "name": "Aggie Class Alert",
+  "icons": [
+    {
+      "src": "images/1262db649ab56f41b9565c4b583cf909.webp",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/webp"
+    },
+    {
+      "src": "images/1262db649ab56f41b9565c4b583cf909.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/1262db649ab56f41b9565c4b583cf909.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#500000",
+  "background_color": "#ffffff"
+} 

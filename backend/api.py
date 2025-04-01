@@ -239,11 +239,11 @@ class Howdy_API:
             return out
 
 
-HOWDY_API = Howdy_API()
+# HOWDY_API = Howdy_API()
 
-if __name__ == '__main__':
-    term = '202511'
-    crn = '30835'
-    res = HOWDY_API.classes[term]
-    with open('example.json', 'w') as f:
-        json.dump(res, f, indent=4)
+# if __name__ == '__main__':
+#     term = '202511'
+#     crn = '30835'
+#     res = HOWDY_API.classes[term]
+#     with open('example.json', 'w') as f:
+#         json.dump(res, f, indent=4)
